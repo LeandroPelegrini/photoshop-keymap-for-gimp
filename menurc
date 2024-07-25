@@ -120,7 +120,7 @@
 ; (gtk_accel_path "<Actions>/plug-in/plug-in-align-layers" "")
 ; (gtk_accel_path "<Actions>/layers/layers-blend-space-menu" "")
 ; (gtk_accel_path "<Actions>/context/context-foreground-value-increase-skip" "")
-; (gtk_accel_path "<Actions>/layers/layers-new-from-visible" "")
+(gtk_accel_path "<Actions>/layers/layers-new-from-visible" "<Primary><Shift><Alt>e")
 ; (gtk_accel_path "<Actions>/context/context-tool-select-last" "")
 ; (gtk_accel_path "<Actions>/view/view-zoom-16-1-accel" "KP_5")
 ; (gtk_accel_path "<Actions>/filters/filters-supernova" "")
